@@ -1,0 +1,4 @@
+def L(a,b):
+    s = a + b
+    return s
+print(L(2,3))
